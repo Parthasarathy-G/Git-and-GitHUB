@@ -1,0 +1,9 @@
+Standard GitHUB commands:
+
+● git clone <GitHub URL>: Downloads a copy of a repository from GitHub to your local machine.
+
+● git remote add origin <GitHub URL>: Associates your local repository with a remote repository on GitHub called origin.
+
+● git push origin main: Sends your local commits to the main branch on the origin remote repository (your GitHub repository).
+
+● git pull origin main: Fetches and integrates the latest changes from the main branch of the origin remote repository (your GitHub repository) into your local repository.
