@@ -23,3 +23,21 @@ Basic commands in Git:
      git pull  This command is used to pull changes from a remote repository to your local repository. This ensures that your local repository is up to date with the latest changes.
 
 ***********************************************************************************************************************************************************************************************************************************************************************************
+
+Git branch commands
+
+Create a Branch:
+
+git branch branch_name - to create a new branch. To create and switch to a new branch directly, use git checkout -b branch_name.
+
+
+View Branches:
+
+List local branches using - git branch.
+List all branches (local and remote) - git branch -a.
+View only remote branches using - git branch -r.
+
+Switch Branches:
+
+Switch to an existing branch - git checkout branch_name or git switch branch_name.
+Return to the previous branch using - git checkout -.
