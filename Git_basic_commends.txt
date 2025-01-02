@@ -29,3 +29,10 @@ Git branch commands
 Create a Branch:
 
 git branch branch_name - to create a new branch. To create and switch to a new branch directly, use git checkout -b branch_name.
+
+
+View Branches:
+
+List local branches using - git branch.
+List all branches (local and remote) - git branch -a.
+View only remote branches using - git branch -r.
