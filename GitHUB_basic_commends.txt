@@ -7,3 +7,13 @@ Standard GitHUB commands:
 ● git push origin main: Sends your local commits to the main branch on the origin remote repository (your GitHub repository).
 
 ● git pull origin main: Fetches and integrates the latest changes from the main branch of the origin remote repository (your GitHub repository) into your local repository.
+
+● git branch: Lists all the branches in your repository and shows the current branch.
+
+● git branch <branch-name>: Creates a new branch called <branch-name>.
+
+● git checkout <branch-name>: Switches to the branch called <branch-name>.
+
+● git merge <branch-name>: Merges the branch called <branch-name> into the current branch.
+
+● git branch -d <branch-name>: Deletes the branch called <branch-name>.
